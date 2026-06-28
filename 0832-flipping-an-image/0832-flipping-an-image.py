@@ -7,8 +7,6 @@ class Solution(object):
         for img in image:
             img.reverse()
             for i in range(len(img)):
-                if img[i] ==1:
-                    img[i] = 0
-                else:
-                    img[i] = 1
+                img[i] = img[i] ^1
+               
         return image
