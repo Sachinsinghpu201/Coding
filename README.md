@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Sachinsinghpu201/Coding/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
