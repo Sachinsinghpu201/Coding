@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Sachinsinghpu201/Coding/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Sachinsinghpu201/Coding/tree/master/0257-binary-tree-paths) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachinsinghpu201/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sachinsinghpu201/Coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachinsinghpu201/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
