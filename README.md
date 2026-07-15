@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sachinsinghpu201/Coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sachinsinghpu201/Coding/tree/master/1291-sequential-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
