@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sachinsinghpu201/Coding/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Sachinsinghpu201/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sachinsinghpu201/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sachinsinghpu201/Coding/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Sachinsinghpu201/Coding/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Sachinsinghpu201/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
