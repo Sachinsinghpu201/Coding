@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sachinsinghpu201/Coding/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sachinsinghpu201/Coding/tree/master/0041-first-missing-positive) |
+| [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
