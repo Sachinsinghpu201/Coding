@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 ## Matrix
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sachinsinghpu201/Coding/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Sachinsinghpu201/Coding/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sachinsinghpu201/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sachinsinghpu201/Coding/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
