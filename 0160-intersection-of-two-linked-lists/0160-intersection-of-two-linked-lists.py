@@ -30,19 +30,34 @@ class Solution(object):
 
         # return None
 
-        setA = set()
+        # setA = set()
 
-        while headA:
-            setA.add(headA)
-            headA = headA.next
+        # while headA:
+        #     setA.add(headA)
+        #     headA = headA.next
 
-        while headB:
-            if headB in setA:
-                return headB
-            headB = headB.next
+        # while headB:
+        #     if headB in setA:
+        #         return headB
+        #     headB = headB.next
 
-        return None
+        # return None
         
-        
+        p1 = headA
+        p2 = headB
+
+        while p1 != p2:
+
+            if p1:
+                p1 = p1.next
+            else:
+                p1 = headB
+
+            if p2:
+                p2 = p2.next
+            else:
+                p2 = headA
+
+        return p1
 
         
