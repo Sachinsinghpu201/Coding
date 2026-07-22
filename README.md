@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sachinsinghpu201/Coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
@@ -119,10 +121,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sachinsinghpu201/Coding/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sachinsinghpu201/Coding/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
