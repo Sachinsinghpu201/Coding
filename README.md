@@ -120,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Sachinsinghpu201/Coding/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sachinsinghpu201/Coding/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
