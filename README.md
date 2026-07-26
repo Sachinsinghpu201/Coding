@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sachinsinghpu201/Coding/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sachinsinghpu201/Coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sachinsinghpu201/Coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sachinsinghpu201/Coding/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sachinsinghpu201/Coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sachinsinghpu201/Coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachinsinghpu201/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sachinsinghpu201/Coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sachinsinghpu201/Coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sachinsinghpu201/Coding/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
