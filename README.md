@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachinsinghpu201/Coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Sachinsinghpu201/Coding/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sachinsinghpu201/Coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
 | [0832-flipping-an-image](https://github.com/Sachinsinghpu201/Coding/tree/master/0832-flipping-an-image) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sachinsinghpu201/Coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachinsinghpu201/Coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Sachinsinghpu201/Coding/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sachinsinghpu201/Coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -177,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Sachinsinghpu201/Coding/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
