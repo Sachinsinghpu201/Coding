@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Sachinsinghpu201/Coding/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachinsinghpu201/Coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sachinsinghpu201/Coding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/Sachinsinghpu201/Coding/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sachinsinghpu201/Coding/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
