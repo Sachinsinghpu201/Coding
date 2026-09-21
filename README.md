@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sachinsinghpu201/Coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3524-find-x-value-of-array-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sachinsinghpu201/Coding/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sachinsinghpu201/Coding/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sachinsinghpu201/Coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sachinsinghpu201/Coding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
