@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachinsinghpu201/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3524-find-x-value-of-array-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachinsinghpu201/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sachinsinghpu201/Coding/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/Sachinsinghpu201/Coding/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Sachinsinghpu201/Coding/tree/master/0257-binary-tree-paths) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachinsinghpu201/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/Sachinsinghpu201/Coding/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinsinghpu201/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sachinsinghpu201/Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sachinsinghpu201/Coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
