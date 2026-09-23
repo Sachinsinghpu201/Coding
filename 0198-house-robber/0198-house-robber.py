@@ -9,6 +9,7 @@ class Solution(object):
             return nums[0]
         a = nums[0]
         b = max(nums[0],nums[1])
+        
 
         for i in range(2,n):
             take = a + nums[i]
@@ -16,4 +17,4 @@ class Solution(object):
             c = max(take,notTake)
             a = b
             b = c
-        return b 
+        return b
