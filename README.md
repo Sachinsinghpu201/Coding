@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sachinsinghpu201/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/Sachinsinghpu201/Coding/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Sachinsinghpu201/Coding/tree/master/3524-find-x-value-of-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sachinsinghpu201/Coding/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sachinsinghpu201/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Sachinsinghpu201/Coding/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Sachinsinghpu201/Coding/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinsinghpu201/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sachinsinghpu201/Coding/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/Sachinsinghpu201/Coding/tree/master/0494-target-sum) |
